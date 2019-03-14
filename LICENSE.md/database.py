@@ -93,7 +93,7 @@ if __name__ == '__main__':
     paired_rows = 0
     
     
-    with open("""file location""", buffering=1000) as f:
+    with open("""insert the file location""", buffering=1000) as f:
         for row in f:
             #print(row)
             #time.sleep(555)
